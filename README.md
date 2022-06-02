@@ -7,3 +7,9 @@ Allows users / customers to search for restaurants based on :
   
 The project uses the concept of hashish using chaining to store and map the restaurants.
 There are different hash functions to search with the three categories mentioned above.
+
+
+Contributors:
+Mrinali Jaiswal
+Vaishnavi Kale
+Aaditree Jaisswal
